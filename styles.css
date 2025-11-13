@@ -17,12 +17,3 @@ button{
     border: 5px solid;
     border-color: rgb(248, 238, 95) ;
 }
-
-@font-face {
-        font-family: 'Monaspace Neon';
-        src: url('../fonts/MonaspaceNeon-Regular.woff2') format('woff2'),
-             url('../fonts/MonaspaceNeon-Regular.woff') format('woff');
-        font-weight: 400;
-        font-style: normal;
-        font-display: swap;
-    }
