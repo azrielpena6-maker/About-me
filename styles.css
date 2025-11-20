@@ -1,19 +1,19 @@
 body{
-    background-color: rgb(34, 18, 81);
+    background-color: rgb(80, 108, 245);
     color: white;
 }
 button{
-    background-color: rgb(83, 83, 240);
+    background-color: rgb(139, 158, 254);
 
     border-radius: 16px;
 }
 
 .button1{
     border: 5px solid;
-    border-color: rgb(248, 238, 95);
+    border-color: rgb(45, 73, 253);
 }
 
 .button2{
     border: 5px solid;
-    border-color: rgb(248, 238, 95) ;
+    border-color: rgb(45, 73, 253) ;
 }
